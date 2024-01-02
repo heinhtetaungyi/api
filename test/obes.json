@@ -1,0 +1,147 @@
+[
+  {
+    "key": "obes01",
+    "intro": [
+      {
+        "key": "introKey",
+        "title": "OBES",
+        "desc": "Olive Bright Environmental Solutions Limited (OBES) မှာ ပတ်ဝန်းကျင်အရည်အသွေးဆန်းစစ်လေ့လာမှုဆိုင်ရာ ဝန်ဆောင်မှုလုပ်ငန်း တခုဖြစ်ပါသည်",
+        "link": "./page/contact.html"
+      }
+    ],
+    "posts": [
+      {
+        "key": "post1",
+        "title": "Post Title",
+        "desc": "Post Description ",
+        "image": "https://www.wildapricot.com/wp-content/uploads/2022/09/default-blogpost.png"
+      }
+    ],
+    "slides": [
+      {
+        "key": "emp",
+        "title": "EMP",
+        "desc": "This is a description about EMP",
+        "link": "./page/details.html",
+        "image": "https://i.pinimg.com/736x/59/c6/b9/59c6b9feb14c75349e49ad1e1f10e2bb.jpg"
+      },
+      {
+        "key": "iee",
+        "title": "IEE",
+        "desc": "This is a description about IEE ...",
+        "link": "./page/details.html",
+        "image": "https://i.pinimg.com/736x/ef/d2/cc/efd2cc8ca6f5bc0aa2d38fcc0383c69a.jpg"
+      },
+      {
+        "key": "eia",
+        "title": "EIA",
+        "desc": "This is a description about EIA ...",
+        "link": "./page/details.html",
+        "image": "https://i.pinimg.com/736x/57/b1/83/57b183ae1ed4ae5eebe8decc10ec150e.jpg"
+      },
+      {
+        "key": "mop",
+        "title": "Monitoring",
+        "desc": "This is a description about EIA ...",
+        "link": "./page/details.html",
+        "image": "https://i.pinimg.com/736x/59/c6/b9/59c6b9feb14c75349e49ad1e1f10e2bb.jpg"
+      }
+    ],
+    "photos": [
+      {
+        "key": "img1",
+        "name": "Image 1",
+        "image": "https://i.pinimg.com/736x/7c/53/90/7c539071c4fe475513ad9c6e296de2fe.jpg"
+      },
+      {
+        "key": "img2",
+        "name": "Image 2",
+        "image": "https://i.pinimg.com/736x/05/b7/94/05b7947ce1bb608fb905eb8eb7352768.jpg"
+      },
+      {
+        "key": "img3",
+        "name": "Image 3",
+        "image": "https://i.pinimg.com/736x/a3/73/13/a37313d4abcd0490692cf75714d0265f.jpg"
+      },
+      {
+        "key": "img4",
+        "name": "Image 4",
+        "image": "https://i.pinimg.com/736x/d1/62/5d/d1625da94bb6740def30de033f0154af.jpg"
+      },
+      {
+        "key": "img5",
+        "name": "Image 5",
+        "image": "https://i.pinimg.com/236x/e0/eb/b2/e0ebb264e584e4722313d627f714131e.jpg"
+      },
+      {
+        "key": "img6",
+        "name": "Image 6",
+        "image": "https://i.pinimg.com/736x/9d/f7/33/9df7332b1ec521a8c9bd54fdf4c32bcf.jpg"
+      }
+    ],
+    "profiles": [
+      {
+        "key": "u1",
+        "name": "Dr. Example",
+        "desc": "",
+        "major": "Major",
+        "ph": "09-123-45",
+        "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+      },
+      {
+        "key": "u2",
+        "name": "Mr. Example",
+        "desc": "",
+        "major": "Major",
+        "ph": "09-123-45",
+        "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+      },
+      {
+        "key": "u3",
+        "name": "U Example",
+        "desc": "",
+        "major": "Major",
+        "ph": "09-123-45",
+        "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+      },
+      {
+        "key": "u4",
+        "name": "U Example",
+        "desc": "",
+        "major": "Major",
+        "ph": "09-123-45",
+        "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+      },
+      {
+        "key": "u5",
+        "name": "Daw Example",
+        "desc": "",
+        "major": "Major",
+        "ph": "09-123-45",
+        "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+      },
+      {
+        "key": "u6",
+        "name": "Daw Example",
+        "desc": "",
+        "major": "Major",
+        "ph": "09-123-45",
+        "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+      }
+    ],
+    "services": [
+      {
+       "key": "service01",
+       "title": "",
+       "desc": ""
+      }
+    ],
+    "About": [
+      {
+       "key": "about01",
+       "title": "About",
+       "desc": ""
+      }
+    ]
+  }
+]
