@@ -448,6 +448,12 @@
         "send": "Must",
         "response": "",
         "type": "Question Word"
+      },
+      {
+        "key": "lrw0d8ls-atqrr",
+        "send": "နည်း",
+        "response": "",
+        "type": "အမေးစကားလုံး"
       }
     ],
     "unknowBox": [
