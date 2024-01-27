@@ -388,6 +388,12 @@
         "send": "How",
         "response": "",
         "type": "Question Word"
+      },
+      {
+        "key": "Ccaafhyr",
+        "send": "Why",
+        "response": "",
+        "type": "Question Word"
       }
     ],
     "unknowBox": [
