@@ -460,6 +460,12 @@
         "send": "ပါ",
         "response": "",
         "type": "ယှဉ်ကျေးသော အသုံးအနှုန်း"
+      },
+      {
+        "key": "Bbnbbx",
+        "send": "?",
+        "response": "",
+        "type": "Question Mark "
       }
     ],
     "unknowBox": [
