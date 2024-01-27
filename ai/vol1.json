@@ -376,6 +376,12 @@
         "send": "လဲ",
         "response": "",
         "type": "အမေးစကားလုံး"
+      },
+      {
+        "key": "lrw07azu-0la2e",
+        "send": "What",
+        "response": "",
+        "type": "Question Word"
       }
     ],
     "unknowBox": [
