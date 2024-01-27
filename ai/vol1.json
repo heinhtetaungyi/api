@@ -406,6 +406,12 @@
         "send": "When",
         "response": "",
         "type": "Question Word"
+      },
+      {
+        "key": "Hhhhdxcb",
+        "send": "Can",
+        "response": "",
+        "type": "Question Word"
       }
     ],
     "unknowBox": [
