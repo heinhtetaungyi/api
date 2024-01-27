@@ -382,6 +382,12 @@
         "send": "What",
         "response": "",
         "type": "Question Word"
+      },
+      {
+        "key": "Guuytgvhfx",
+        "send": "How",
+        "response": "",
+        "type": "Question Word"
       }
     ],
     "unknowBox": [
