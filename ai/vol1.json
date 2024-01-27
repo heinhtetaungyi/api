@@ -412,6 +412,12 @@
         "send": "Can",
         "response": "",
         "type": "Question Word"
+      },
+      {
+        "key": "Bhfxxvg",
+        "send": "Could",
+        "response": "",
+        "type": "Question Word"
       }
     ],
     "unknowBox": [
