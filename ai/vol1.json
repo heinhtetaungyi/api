@@ -364,6 +364,12 @@
         "send": "IT ဆိုတာဘာလဲ",
         "response": "letSearch()",
         "type": "နည်းပညာအကြောင်း"
+      },
+      {
+        "key": "lrvwlynk-7n0p4",
+        "send": "လား",
+        "response": "",
+        "type": "အမေးစကားလုံး"
       }
     ],
     "unknowBox": [
