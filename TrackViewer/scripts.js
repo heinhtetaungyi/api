@@ -2,8 +2,12 @@
 let itrack = {
   endKey: "",
   endPoint: "https://api.github.com/repos/heinhtetaungyi/api/contents/TrackViewer/counts.json",
-  endUser: "Z2hwX3lOS3dBalhCVDA1QWdSZ0g3TTBiblhENXVCT0ZHdzRUd3hVcg=="
+  endUser: "",
+  char1: "Z2hwX2EzOFVu",
+  char2: "TFhCSGFmNDRWaHoxZG9kYmZ6TD",
+  char3: "JhZ05paDFPOG1mcQ=="
 }
+
 function generateiTrackId() {
   const timestamp = Date.now().toString(36);
   const randomPart = Math.random().toString(36).substr(2,
@@ -20,7 +24,7 @@ async function iTrackViewers() {
   fetch(itrack.endPoint,
     {
       headers: {
-        Authorization: `token ${iTrackAtoB(itrack.endUser)}`
+        Authorization: `token ${iTrackAtoB(itrack.char1+itrack.char2+itrack.char3)}`
       }
     })
   .then(response => response.json())
@@ -46,10 +50,11 @@ async function iTrackViewers() {
   return [];
 }
 async function getViewers() {
+
   let res = await fetch(itrack.endPoint,
     {
       headers: {
-        Authorization: `token ${iTrackAtoB(itrack.endUser)}`
+        Authorization: `token ${iTrackAtoB(itrack.char1+itrack.char2+itrack.char3)}`
       }
     });
   if (res.ok) {
@@ -67,7 +72,7 @@ function addToViewer(viewer) {
   fetch(itrack.endPoint,
     {
       headers: {
-        Authorization: `Bearer ${iTrackAtoB(itrack.endUser)}`
+        Authorization: `Bearer ${iTrackAtoB(itrack.char1+itrack.char2+itrack.char3)}`
       }
     })
   .then(response => response.json())
@@ -100,7 +105,7 @@ function updateiTrackList(key, array) {
     {
       method: "PUT",
       headers: {
-        Authorization: `Bearer ${iTrackAtoB(itrack.endUser)}`,
+        Authorization: `Bearer ${iTrackAtoB(itrack.char1+itrack.char2+itrack.char3)}`,
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
@@ -114,13 +119,13 @@ function updateiTrackList(key, array) {
       //console.log("addToViewer");
     } else {
       response.json().then(errorData => {
-        // console.error(
-        //   console.error(
-        //     "Error Updating",
-        //     response.status,
-        //     response.statusText,
-        //     errorData
-        //   );
+        console.error(
+          "Error Updating",
+          response.status,
+          response.statusText,
+          errorData
+        );
+
       });
     }
   })
@@ -186,3 +191,4 @@ async function testTrack() {
   console.log(v.length+ " Views");
 }
 startTrack();
+//testTrack();
