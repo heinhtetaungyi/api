@@ -262,5 +262,17 @@
     "language": "American English",
     "region": "US",
     "date": "Sun Feb 25 2024 16:02:17 GMT+0630 (Myanmar Time)"
+  },
+  {
+    "key": "lt1b9ykg-n6k6a",
+    "ipAddress": "202.165.86.34",
+    "browserName": "Netscape",
+    "screenSize": "360x806",
+    "deviceType": "desktop",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "platform": "Linux aarch64",
+    "language": "American English",
+    "region": "US",
+    "date": "Sun Feb 25 2024 16:02:20 GMT+0630 (Myanmar Time)"
   }
 ]
