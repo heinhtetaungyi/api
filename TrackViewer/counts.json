@@ -526,5 +526,17 @@
     "language": "American English",
     "region": "US",
     "date": "Mon Feb 26 2024 19:47:51 GMT+0630 (Myanmar Time)"
+  },
+  {
+    "key": "lt2ysar3-kezi6",
+    "ipAddress": "38.52.122.58",
+    "browserName": "Netscape",
+    "screenSize": "360x806",
+    "deviceType": "desktop",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "platform": "Linux aarch64",
+    "language": "American English",
+    "region": "US",
+    "date": "Mon Feb 26 2024 19:48:13 GMT+0630 (Myanmar Time)"
   }
 ]
