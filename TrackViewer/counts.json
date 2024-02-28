@@ -826,5 +826,17 @@
     "language": "American English",
     "region": "US",
     "date": "Wed Feb 28 2024 21:02:03 GMT+0630 (Myanmar Time)"
+  },
+  {
+    "key": "lt5wb3ub-mf97b",
+    "ipAddress": "38.52.122.41",
+    "browserName": "Netscape",
+    "screenSize": "360x806",
+    "deviceType": "mobile",
+    "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+    "platform": "Linux armv81",
+    "language": "American English",
+    "region": "US",
+    "date": "Wed Feb 28 2024 21:02:10 GMT+0630 (Myanmar Time)"
   }
 ]
