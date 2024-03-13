@@ -982,5 +982,17 @@
     "language": "American English",
     "region": "US",
     "date": "Wed Mar 13 2024 19:26:12 GMT+0630 (Myanmar Time)"
+  },
+  {
+    "key": "ltpt1ovb-jyls7",
+    "ipAddress": "38.52.122.130",
+    "browserName": "Netscape",
+    "screenSize": "360x806",
+    "deviceType": "desktop",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "platform": "Linux aarch64",
+    "language": "American English",
+    "region": "US",
+    "date": "Wed Mar 13 2024 19:26:15 GMT+0630 (Myanmar Time)"
   }
 ]
