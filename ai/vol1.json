@@ -361,6 +361,12 @@
         "send": "အချစ်အကြောင်းလေး ပြောပါအုံး",
         "response": "လူတစ်ယောက်ကို ချစ်တယ်ဆိုတာက အဲ့ဒီချစ်တယ်ဆိုတဲ့ နေရာလေးမှာ ရပ်လိုက်တာ အကောင်းဆုံးပဲ ...!!! <br> when you've fallen in love with someone, the best thing to do is to halt it at that 'love' stage. <br> ပိုင်ဆိုင်စရာမလိုဘူး... သဝန်တိုစရာမရှိဘူး... အနားမှာရှိခွင့်တွေမပါဘူး... ရန်ဖြစ်ရခြင်းတွေမရှိဘူး... သေချာတယ် အဲ့အချစ်က သိပ်အေးချမ်းတယ် ။ <br> no need for possession no room for jealousy no right to stay close to them no fights nor quarrels, certainly, such love is very peaceful.",
         "type": "About Love"
+      },
+      {
+        "key": "02AboutLove",
+        "send": "အချစ်အကြောင်းလေးပြောပါအုံး",
+        "response": "လူတစ်ယောက်ကို ချစ်တယ်ဆိုတာက အဲ့ဒီချစ်တယ်ဆိုတဲ့ နေရာလေးမှာ ရပ်လိုက်တာ အကောင်းဆုံးပဲ ...!!! <br> when you've fallen in love with someone, the best thing to do is to halt it at that 'love' stage. <br> ပိုင်ဆိုင်စရာမလိုဘူး... သဝန်တိုစရာမရှိဘူး... အနားမှာရှိခွင့်တွေမပါဘူး... ရန်ဖြစ်ရခြင်းတွေမရှိဘူး... သေချာတယ် အဲ့အချစ်က သိပ်အေးချမ်းတယ် ။ <br> no need for possession no room for jealousy no right to stay close to them no fights nor quarrels, certainly, such love is very peaceful.",
+        "type": "အချစ်အကြောင်း"
       }
     ],
     "actionBox": [],
